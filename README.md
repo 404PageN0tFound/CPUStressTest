@@ -1,4 +1,4 @@
-# CPUStressTest
+# CPU Stress Test
 A stress test for your CPU.
 
 # How do I use this?
@@ -12,3 +12,6 @@ A stress test for your CPU.
 
 # Install URL
 **The official and most recent Install URL is: https://github.com/404PageN0tFound/CPUStressTest/archive/refs/tags/v1.00.zip.**
+
+# Note
+Please make sure that `stress.vbs` is in the same folder as `CPU Stress Test.bat`.
