@@ -11,7 +11,7 @@ A stress test for your CPU.
 **4.** Start stress testing your CPU!
 
 # Install URL
-**The official and most recent Install URL is: https://github.com/404PageN0tFound/CPUStressTest/archive/refs/tags/v1.00.zip.**
+**The official and most recent Install URL is: https://github.com/404PageN0tFound/CPUStressTest/archive/refs/tags/v1.00.zip**
 
 # Note
 Please make sure that `stress.vbs` is in the same folder as `CPU Stress Test.bat`.
