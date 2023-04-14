@@ -9,3 +9,6 @@ A stress test for your CPU.
 **3.** Press OK on the warning window which opens
 <br />
 **4.** Start stress testing your CPU!
+
+# Install URL
+**The official and most recent Install URL is: https://github.com/404PageN0tFound/CPUStressTest/archive/refs/tags/v1.00.zip.**
